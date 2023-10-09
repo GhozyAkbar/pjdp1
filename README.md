@@ -1,6 +1,6 @@
 # pjdp kelompok 1
 
 Tugas Kelompok Pemrograman Jaringan dengan Pyhton
-Paper untuk tugas janlup!
+**Paper untuk tugas janlup!**
 
-Semangattt gess!1!1
+> Semangattt gess!1!1
